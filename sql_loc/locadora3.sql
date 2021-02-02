@@ -1,0 +1,181 @@
+CREATE DATABASE LOCADORA;
+GO
+
+USE LOCADORA;
+GO
+
+CREATE TABLE Estado (
+ID_Estado TINYINT PRIMARY KEY IDENTITY(1,1),
+Sigla_Estado CHAR(2),
+Nome_Estado varchar(19)
+)
+GO
+
+CREATE TABLE Cidade (
+ID_Cidade INT PRIMARY KEY IDENTITY(1,1),
+ID_Estado INT,
+Nome_Cidade NVARCHAR(50)
+)
+GO
+
+CREATE TABLE Cliente (
+Codigo_Cli NVARCHAR(6) PRIMARY KEY,
+Nome_cli NVARCHAR(150),
+Data_inclu NVARCHAR(10),
+CPF_CLI NVARCHAR(15),
+RG_Cli NVARCHAR(10),
+Estado_Civil_cli NVARCHAR(10),
+Sexo_CLi CHAR(1),
+Data_nasc_cli NVARCHAR(10),
+Endereco_cli NVARCHAR(150),
+End_num_CLi bigint,
+Comple_cli NVARCHAR(50),
+Bairro_cli NVARCHAR(100),
+Estado char(2),
+Cidade nvarchar(150),
+CEP_Cli NVARCHAR(8),
+Telefone1_Cli NVARCHAR(11),
+Telefone2_cli NVARCHAR(11),
+Email_cli NVARCHAR(50),
+Observacao_Cli NVARCHAR(256),
+Nome_autorizado1 NVARCHAR(150),
+CPF_autorizado1 NVARCHAR(15),
+data_nascimento_autorizado1 NVARCHAR(10),
+Nome_autorizado_2 NVARCHAR(50),
+CPF_Autorizado_2 NVARCHAR(15),
+Data_nascimento_Autorizado2 NVARCHAR(10),
+Nome_Autorizado_3 NVARCHAR(50),
+CPF_Autorizado3 NVARCHAR(15),
+Data_Nascimento_Autorizado3 NVARCHAR(10),
+)
+GO
+
+CREATE TABLE CLASSEFILME
+(
+	ID_CL_FILME TINYINT PRIMARY KEY IDENTITY(1,1),
+	DE_CL_FILME VARCHAR(17) NOT NULL,
+	VALOR_CL_FILME MONEY NOT NULL,
+	DIAS_CL_FILME INT NOT NULL
+)
+;
+--SELECT * FROM CLASSEFILME;
+INSERT INTO CLASSEFILME VALUES('SUPER LANÇAMENTO', 5.00, 1);
+INSERT INTO CLASSEFILME VALUES('LANÇAMENTO', 2.00, 2);
+INSERT INTO CLASSEFILME VALUES('ANTIGO', 1.00, 3);
+GO
+
+CREATE TABLE Filmes (
+Cod_Filme INT PRIMARY KEY,
+Titu_Filme NVARCHAR(200),
+Data_Inclu_Filme NVARCHAR(10),
+Pais_filme NVARCHAR(50),
+genero NVARCHAR(50),
+Duracao_filme NVARCHAR(50),
+Ano_filme NVARCHAR(50),
+Produtora_filme NVARCHAR(50),
+ID_CL_FILME TINYINT REFERENCES CLASSEFILME(ID_CL_FILME),
+Nume_Copia_filme INT,
+Midia_Filme NVARCHAR(50),
+Elenco_filme NVARCHAR(200),
+Diretor_filme NVARCHAR(200),
+Extras NVARCHAR(200),
+Sinopse_filme NVARCHAR(500),
+)
+GO
+--DROP TABLE FILMES
+
+CREATE TABLE Acesso_Usuario (
+Cod_Us NVARCHAR(5) PRIMARY KEY,
+Nome_Us NVARCHAR(50),
+Data_inclusao_us NVARCHAR(10),
+CPF_US NVARCHAR(11),
+RG_Us NVARCHAR(10),
+Estado_Civil_US NVARCHAR(8),
+Sexo_Us CHAR(1),
+Data_Nasc_US NVARCHAR(10),
+End_US NVARCHAR(30),
+End_Num_Us INT,
+Comple_US NVARCHAR(10),
+Bairro_Us NVARCHAR(20),
+Estado char(2),
+Cidade nvarchar(150),
+CEP_Us NVARCHAR(8),
+Telefone1_Us NVARCHAR(11),
+Telefone2_Us NVARCHAR(11),
+Email_Us NVARCHAR(30),
+Observacao_Us NVARCHAR(100),
+Login_Us NVARCHAR(10),
+Senha_Us NVARCHAR(15),
+nivel_acesso nvarchar(15))
+GO
+
+select Senha_Us from Acesso_Usuario where Login_Us = 'kaka';
+GO
+
+
+
+CREATE TABLE Locacao (
+ID_Locacao INT PRIMARY KEY IDENTITY(1,1),
+Codigo_Cli NVARCHAR(6),
+Cod_Filme INT ,
+Cod_Us NVARCHAR(5),
+Data_locacao DATE,
+PEND_PAGTO BIT,
+PEND_DEVOLUCAO BIT
+)
+GO
+
+
+CREATE TABLE Devolucao (
+ID_Locacao INT REFERENCES LOCACAO(ID_Locacao),
+Cod_Us NVARCHAR(5),
+Data_devolução DATE,
+Pagamento MONEY
+)
+GO
+
+CREATE TABLE CRED_DEB
+(
+	Codigo_Cli NVARCHAR(6),
+	VALOR MONEY NOT NULL DEFAULT 0.00,
+	PEND_ATRASO BIT NOT NULL DEFAULT 0
+);
+GO
+ALTER TABLE CRED_DEB 
+	ADD CONSTRAINT FK_CODIGO_CLI
+	FOREIGN KEY (Codigo_Cli)
+	REFERENCES Cliente(Codigo_Cli)
+	ON DELETE CASCADE
+	ON UPDATE CASCADE
+;
+GO
+
+CREATE TABLE USUARIOATIVO
+(
+	ID_USUARIOATIVO BIT PRIMARY KEY DEFAULT 1,
+	COD VARCHAR(6),
+	NOME VARCHAR(80)
+);
+GO
+INSERT INTO USUARIOATIVO VALUES(1,3,'cassio');
+--SELECT * FROM USUARIOATIVO;
+--UPDATE USUARIOATIVO SET US_ID = 3;
+GO
+
+CREATE TABLE AUDITORIA
+(
+	USUARIO VARCHAR(80),
+	ACAO VARCHAR(10),
+	TABELA VARCHAR(20),
+	DATA DATETIME,
+	CODIGO VARCHAR(6)
+);
+GO
+
+SELECT * FROM Acesso_Usuario
+GO
+
+insert into Acesso_Usuario values(1,'Admin','29/10/2000','37187573898','44554591-4','solteiro','m','05/06/1989',
+'av1', 178,'','vila a','sp','campos','12460000','11111111','222222222','as@as.com','fodao','Admin','admin','administrador');
+GO
+

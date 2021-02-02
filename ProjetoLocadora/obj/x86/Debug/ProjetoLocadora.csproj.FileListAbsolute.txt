@@ -1,0 +1,105 @@
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\bin\Debug\ProjetoLocadora.exe
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\bin\Debug\ProjetoLocadora.pdb
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Alteracaocli.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraFilme.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraUsuario.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaCliente.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaUsuario.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroCliente.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroFilmes.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroUsuario.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaCliente.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDeb.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDev.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConsultaDebito.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Devolucao.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.FormPrincipal.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaFilme.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Locacao.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Properties.Resources.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.RelatorioDevedores.resources
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.exe
+E:\Meus_Docs\1 - IFSP\ProjetoLocadora\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.pdb
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.exe
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.pdb
+F:\ProjetoLocadora1.6\ProjetoLocadora\bin\Debug\ProjetoLocadora.exe
+F:\ProjetoLocadora1.6\ProjetoLocadora\bin\Debug\ProjetoLocadora.pdb
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Alteracaocli.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraFilme.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraUsuario.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaCliente.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaUsuario.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroCliente.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroFilmes.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroUsuario.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaCliente.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDeb.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDev.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConsultaDebito.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Devolucao.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.FormPrincipal.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaFilme.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Locacao.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Properties.Resources.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.RelatorioDevedores.resources
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ProjetoLocadora1.6\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Definipreço.resources
+F:\curso\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.exe
+F:\curso\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.pdb
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.exe
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.pdb
+G:\Cine+\ProjetoLocadora\bin\Debug\ProjetoLocadora.exe
+G:\Cine+\ProjetoLocadora\bin\Debug\ProjetoLocadora.pdb
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Alteracaocli.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraFilme.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraUsuario.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaCliente.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaUsuario.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroCliente.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroFilmes.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroUsuario.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaCliente.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDeb.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDev.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConsultaDebito.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Definipreço.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Devolucao.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.FormPrincipal.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaFilme.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Locacao.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Properties.Resources.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.RelatorioDevedores.resources
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Cine+\ProjetoLocadora\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.exe
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.pdb
+F:\Cine+\ProjetoLocadora\bin\Debug\ProjetoLocadora.exe
+F:\Cine+\ProjetoLocadora\bin\Debug\ProjetoLocadora.pdb
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Alteracaocli.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraFilme.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.AlteraUsuario.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaCliente.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaUsuario.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroCliente.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroFilmes.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.CadastroUsuario.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaCliente.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDeb.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConfirmaClienteDev.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.ConsultaDebito.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Definipreço.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Devolucao.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.FormPrincipal.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.BuscaFilme.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Locacao.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.Properties.Resources.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\ProjetoLocadora.RelatorioDevedores.resources
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Cine+\ProjetoLocadora\obj\x86\Debug\GenerateResource.write.1.tlog
